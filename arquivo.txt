@@ -1,20 +1,13 @@
 1- Lucas -
 2- Rayan - Jaca
-1- Lucas - Uva
-2- Rayan -
 3- Ricardo -
-4- Robsson - Maracuja
-5- Yan - Abacaxi
+4- Robsson -
+5- Yan -
 6- Luan -
 7- Paiva -
-<<<<<<< HEAD
 8- Cinque -
 9- Rico -
 10- Thiago - Banana
 11- Jef -
-=======
-8- Cinque - Manga
-9- Rico - Toranja
->>>>>>> 5bcd06bca13c0dd939ac81bfe3c8f076f0125a11
 10- Thiago -
 11- Jef - 🍎
